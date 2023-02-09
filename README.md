@@ -2,7 +2,7 @@
 
  
 # 💫 About Me:
-🔭 I’m currently building an AI app by OPEN AI DALL·E 2.<br>🌱 I’m currently learning more about Jetpack Compose.<br>👯 I’m looking to collaborate on any platform.<br>🤝 I’m looking for help with Flame Engine.<br>💬 Ask me anything  about Flutter.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I prefer socks versus bare feet.
+🔭 I’m currently building an AI app by OpenAI DALL·E 2.<br>🌱 I’m currently learning more about Jetpack Compose.<br>👯 I’m looking to collaborate on any platform.<br>🤝 I’m looking for help with Flame Engine.<br>💬 Ask me anything  about Flutter.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I prefer socks versus bare feet.
 
 
 ## 🌐 Socials:
