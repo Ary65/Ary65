@@ -27,6 +27,24 @@
 - ⚡ Fun fact: I never code without my favorite socks!
 
 ---
+🚀 My Portfolio
+<p align="center">
+  <a href="https://arif65.vercel.app/" target="_blank">
+    <picture>
+      <!-- dark mode screenshot -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ary65/Ary65/main/portfolio-dark-preview.png">
+      <!-- light mode fallback -->
+      <img width="80%" src="https://raw.githubusercontent.com/Ary65/Ary65/main/portfolio-light-preview.png" alt="Portfolio Preview" />
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://arif65.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
+  </a>
+</p>
+
+Explore my projects and skills at arif65.vercel.app
 
 ## 🌐 Let’s Connect
 
