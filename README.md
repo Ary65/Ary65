@@ -1,6 +1,6 @@
-<!-- typing animation header -->
+Canvas <!-- typing animation header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=true&width=700&height=70&lines=Hi+there%2C+I%E2%80%99m+Ariful+Islam+👋;Welcome+to+my+dev+playground!;Let%27s+code+magic!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=true&width=700&height=70&lines=Hi+there%2C+I%E2%80%99m+Ariful+Islam+%F0%9F%91%8B;Welcome+to+my+dev+playground!;Let%27s+code+magic!" alt="Typing Animation" />
 </p>
 
 <!-- Dark/Light mode support badge -->
@@ -20,7 +20,7 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Building a stealthy **vault‑in‑calculator** app  
+- 💪 Building a stealthy **vault‑in‑calculator** app  
 - 🌱 Mastering **Jetpack Compose** for sleek Android UIs  
 - 👯 Open to collab on cross‑platform or **Flame Engine** game projects  
 - 💬 Ask me anything about **Flutter**, **Dart**, or **architecture patterns**  
@@ -45,6 +45,18 @@
 
 ---
 
+## 🌗 Portfolio Preview
+
+<p align="center">
+  <a href="https://arif65.vercel.app/">
+    <img width="80%" src="https://i.postimg.cc/sXNmk6p0/download-1.png" alt="Portfolio Preview" />
+  </a>
+</p>
+
+> **Explore my work at:** [arif65.vercel.app](https://arif65.vercel.app/)
+
+---
+
 ## 🌗 Light & Dark Mode Preview
 
 <p align="center">
@@ -60,7 +72,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ary65&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" />
@@ -84,5 +96,5 @@
 ---
 
 <div align="center">
-  Made with ❤️ using **Flutter**, **Jetpack Compose**, & ☕  
+  Made with ❤️ using **Flutter**, **Jetpack Compose**, & ☕️
 </div>
