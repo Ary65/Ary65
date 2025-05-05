@@ -24,7 +24,7 @@ Canvas <!-- typing animation header -->
 - 🌱 Mastering **Jetpack Compose** for sleek Android UIs  
 - 👯 Open to collab on cross‑platform or **Flame Engine** game projects  
 - 💬 Ask me anything about **Flutter**, **Dart**, or **architecture patterns**  
-- ⚡ Fun fact: I never code without my favorite socks!
+- ⚡ Fun fact: I once debugged a bug in my dream—and it actually worked in real life!
 
 ---
 
