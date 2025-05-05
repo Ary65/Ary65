@@ -10,7 +10,9 @@ Canvas <!-- typing animation header -->
 
 <!-- optional animated accent -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" alt="Animated Accent" />
+<!--   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" alt="Animated Accent" /> -->
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhjZHJld3ZrOXNvbW53ZTFsMXdzYzhncXJ3ZG9kMjF4YXJrcnNxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" alt="Animated Accent" />
+   
 </p>
 
 # Hi there, I’m **Ariful Islam** 👋
